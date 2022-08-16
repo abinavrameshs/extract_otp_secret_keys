@@ -1,6 +1,6 @@
 generated_python/__pycache__/
 qr/
 venv/
-
+__pypackages__
 *.csv
 *.json
